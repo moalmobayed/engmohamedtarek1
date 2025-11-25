@@ -1,11 +1,11 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px">, I'm Mohamed Tarek</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px">, I'm Mohamed Alobayed</h1>
 
 ### **👋 About Me**  
 
 I'm a **Software Engineer** specializing in **frontend development**, passionate about building **responsive, accessible, and inclusive** digital experiences. With expertise in **Next.js, React, and Tailwind CSS**, I focus on creating scalable, high-performance web applications that enhance user interactions.
 
 ✔ **Expertise in modern frontend development** with a focus on scalability and performance.  
-✔ **Strong problem-solving skills** – Check out my [SOLUTIONS](https://github.com/engmohamedtarek1/problems-solutions).  
+✔ **Strong problem-solving skills** – Check out my [SOLUTIONS](https://github.com/moalmobayed/problems-solutions).  
 ✔ **Proficient in optimizing web performance** for better speed and SEO.  
 ✔ **Effective communicator and team player** in cross-functional collaborations.  
 ✔ **Continuously learning and adapting** to the latest technologies in the industry.  
@@ -31,13 +31,13 @@ I'm a **Software Engineer** specializing in **frontend development**, passionate
 ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-blue.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Github](https://img.shields.io/badge/Github-e84e31.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-ccc.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=black) ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=engmohamedtarek1&show_icons=true&theme=dark&text_color=ccc&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=engmohamedtarek1&theme=dark&text_color=ccc&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=engmohamedtarek1&theme=dark&text_color=ccc&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=moalmobayed&show_icons=true&theme=dark&text_color=ccc&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=moalmobayed&theme=dark&text_color=ccc&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=moalmobayed&theme=dark&text_color=ccc&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=engmohamedtarek1&theme=juicyfresh&text_color=e7a917&title_color=e7a917&no-frame=false&no-bg=true&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=moalmobayed&theme=juicyfresh&text_color=e7a917&title_color=e7a917&no-frame=false&no-bg=true&margin-w=8)
 
 ## ✍️ Random Dev Quote:
 
